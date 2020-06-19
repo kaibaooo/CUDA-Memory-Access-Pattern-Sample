@@ -1,4 +1,4 @@
-# CUDA-memory-access-pattern-sample
+# CUDA-Memory-Access-Pattern-Sample
 
 ## Usage
 ```
