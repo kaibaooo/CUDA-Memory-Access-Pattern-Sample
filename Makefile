@@ -17,5 +17,6 @@ CacheSensitive:
 	nvcc Pageable_CacheSensitive.cu -o Pageable_CacheSensitive.out
 	nvcc UnifiedMemoryAccess_CacheSensitive.cu -o UnifiedMemoryAccess_CacheSensitive.out
 	nvcc ZeroCopy_CacheSensitive.cu -o ZeroCopy_CacheSensitive.out
+
 clean:
 	rm *.out
