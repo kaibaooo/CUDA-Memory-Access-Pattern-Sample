@@ -3,7 +3,7 @@
 ## Usage
 ```
 git clone 
-cd
+cd CUDA-Memory-Access-Pattern-Sample
 make
 
 ```
